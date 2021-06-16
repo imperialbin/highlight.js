@@ -7,7 +7,7 @@ Category: common
 
 export default function(hljs) {
   return {
-    name: 'Plain text',
+    name: 'Plain_text',
     aliases: [
       'text',
       'txt'

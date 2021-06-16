@@ -130,7 +130,7 @@ export default function(hljs) {
     "del"
   ];
   return {
-    name: 'Batch file (DOS)',
+    name: 'batchfile',
     aliases: [
       'bat',
       'cmd'

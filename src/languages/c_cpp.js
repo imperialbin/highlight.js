@@ -536,7 +536,7 @@ export default function(hljs) {
   };
 
   return {
-    name: 'C++',
+    name: 'c_cpp',
     aliases: [
       'cc',
       'c++',

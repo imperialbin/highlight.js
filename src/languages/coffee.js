@@ -156,7 +156,7 @@ export default function(hljs) {
   };
 
   return {
-    name: 'CoffeeScript',
+    name: 'coffee',
     aliases: [
       'coffee',
       'cson',

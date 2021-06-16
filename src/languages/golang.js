@@ -83,7 +83,7 @@ export default function(hljs) {
     built_in: BUILT_INS
   };
   return {
-    name: 'Go',
+    name: 'golang',
     aliases: ['golang'],
     keywords: KEYWORDS,
     illegal: '</',
